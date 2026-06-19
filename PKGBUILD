@@ -30,7 +30,6 @@ depends=(gcc-libs
          ksvg
          kunitconversion
          kwidgetsaddons
-         kwin
          kxmlgui
          qt6-5compat
          qt6-base
@@ -44,6 +43,7 @@ depends=(gcc-libs
          sonic-frameworks-runner
          sonic-frameworks-windowsystem
          sonic-interface-libraries
+         sonic-win
          sonic-workspace
          sonnet)
 makedepends=(networkmanager-qt
