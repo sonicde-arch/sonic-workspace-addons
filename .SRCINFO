@@ -1,7 +1,7 @@
 pkgbase = sonic-workspace-addons
 	pkgdesc = All kind of addons to improve your SonicDE experience
-	pkgver = 6.7.0
-	pkgrel = 2
+	pkgver = 6.7.1
+	pkgrel = 1
 	url = https://github.com/Sonic-DE/sonic-workspace-addons
 	arch = x86_64
 	groups = sonicde
@@ -54,6 +54,6 @@ pkgbase = sonic-workspace-addons
 	provides = kdeplasma-addons
 	conflicts = kdeplasma-addons
 	source = sonic-workspace-addons-6.7.0.tar.gz::https://github.com/Sonic-DE/sonic-workspace-addons/archive/refs/tags/6.7.0.tar.gz
-	sha256sums = 732369c56cff3d7370d5b93127a0c4fa76e7d0e7391bf78865d751fae02f748a
+	sha256sums = 1848f3b8dbaa5f5e921a77dbb868ab3916e082ff4cebec864a402f2fc65cd2ae
 
 pkgname = sonic-workspace-addons
